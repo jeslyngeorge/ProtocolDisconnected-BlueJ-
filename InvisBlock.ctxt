@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InvisBlock
+comment1.params=fileName
+comment1.target=InvisBlock(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ if\ player\ touches\ an\ item,\ increases\ score\ and\ removes\ the\ item\r\n
+numComments=3

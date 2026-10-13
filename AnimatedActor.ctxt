@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=AnimatedActor
+comment0.text=\r\n\ Extension\ of\ GravityActor\ to\ incorporate\ gravity\ effect\r\n\ Uses\ a\ timor\ to\ sync\ animation\ speed\ to\ game\ framerate\r\n
+comment1.params=
+comment1.target=AnimatedActor()
+comment2.params=a
+comment2.target=void\ setAnimation(Animation)
+comment2.text=\r\n\ replaces\ current\ animation\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ applies\ gravity\ to\ movement\r\n\ swithces\ to\ next\ frame\ after\ timer\r\n\ increments\ and\ updates\ frame\ of\ the\ animation\r\n
+numComments=4

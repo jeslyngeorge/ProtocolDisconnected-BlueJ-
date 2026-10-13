@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Animation
+comment0.text=\r\nManages\ the\ sequence\ of\ images\ in\ a\ cycle\r\n
+comment1.params=fRate\ f
+comment1.target=Animation(int,\ java.lang.String[])
+comment1.text=\r\n\ instanciates\ speed\ of\ animation\r\n
+comment2.params=
+comment2.target=int\ getFrameRate()
+comment2.text=\r\n\ return\ the\ framrate\r\n
+comment3.params=
+comment3.target=mayflower.MayflowerImage\ getNextFrame()
+comment3.text=\r\n\ loops\ back\ to\ first\ frame\ automatically\ after\ last\ frame\r\n
+comment4.params=w\ h
+comment4.target=void\ scale(int,\ int)
+comment4.text=\r\n\ resizes\ all\ animation\ frames\r\n
+comment5.params=percent
+comment5.target=void\ setTransparency(int)
+comment5.text=\r\n\ Sets\ the\ opacity\ of\ the\ character\r\n
+comment6.params=
+comment6.target=void\ mirrorHorizontally()
+comment6.text=\r\n\ method\ to\ flips\ animation\ frames\ horizontally\r\n\ used\ for\ reusing\ right-facing\ animation\ for\ left-facing\ movement\r\n
+comment7.params=x\ y\ w\ h
+comment7.target=void\ setBounds(int,\ int,\ int,\ int)
+comment7.text=\r\n\ Crops\ all\ animation\ frames\r\n
+numComments=8

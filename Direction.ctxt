@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Direction
+comment0.text=\r\n\ Represents\ the\ current\ horizontal\ or\ vertical\ direction\ moved\ towards\r\n\ Used\ primarliy\ for\ player\ and\ object\ movement\ and\ collision\ detection\r\n
+numComments=1

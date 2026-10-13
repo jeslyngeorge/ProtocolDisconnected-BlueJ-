@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GravityActor
+comment1.params=
+comment1.target=GravityActor()
+comment2.params=
+comment2.target=boolean\ isOnGround()
+comment2.text=\r\n\ Check\ if\ actor\ is\ standing\ on\ a\ block\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Takes\ care\ of\ gravity\r\n
+comment4.params=
+comment4.target=boolean\ isBlocked()
+comment4.text=\r\n\ checks\ if\ the\ Actor\ is\ touching\ the\ ground\r\n
+comment5.params=
+comment5.target=void\ jump()
+comment5.text=\r\n\ jump\ stuff\r\n
+comment6.params=
+comment6.target=boolean\ isFalling()
+comment6.text=\r\n\ checks\ if\ the\ Actor\ is\ falling\r\n
+numComments=7

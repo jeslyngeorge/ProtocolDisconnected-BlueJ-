@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Portal
+comment1.params=fileName
+comment1.target=Portal(java.lang.String)
+comment1.text=\r\n\ instantiate\ private\ instance\ variable\ and\ set\ portal\ image\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ a\ short\ lag\ before\ moving\ player\ to\ next\ world\r\n
+numComments=3

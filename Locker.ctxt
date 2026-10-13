@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Locker
+comment1.params=fileName
+comment1.target=Locker(java.lang.String)
+comment1.text=\r\n\ sets\ locker\ inital\ 'closed'\ appearance\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ flips\ image\ based\ on\ if\ player\ is\ touching\ the\ locker\ \r\n
+comment3.params=
+comment3.target=boolean\ touching()
+comment3.text=\r\n\ determines\ if\ player\ is\ touching\ the\ locker\r\n
+numComments=4

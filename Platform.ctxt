@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Platform
+comment0.text=\r\n\ specialized\ block\ object\r\n\ used\ for\ the\ ground\r\n
+comment1.params=fileName
+comment1.target=Platform(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

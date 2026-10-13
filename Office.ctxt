@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Office
+comment1.params=p
+comment1.target=Office(PlayerAnimatedActor)
+comment1.text=\r\n\ same\ player\ object\ passed\ between\ worlds\r\n
+comment2.params=
+comment2.target=void\ buildWorld()
+comment2.text=\r\n\ created\ ground\r\n
+comment3.params=
+comment3.target=void\ addPlatforms()
+comment3.text=\r\n\ identifies\ where\ mr.butler\ will\ be\ placed\r\n
+comment4.params=
+comment4.target=void\ addPlayer()
+comment4.text=\r\n\ adds\ player\ to\ world\ &\ updates\ player's\ world\ number\r\n
+comment5.params=
+comment5.target=int\ getStartX()
+comment5.text=\r\n\ player's\ x\ position\r\n
+comment6.params=
+comment6.target=int\ getStartY()
+comment6.text=\r\n\ player's\ y\ position\r\n
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ ending\ scene\ where\ player\ is\ turned\ into\ cabbage\r\n
+numComments=8

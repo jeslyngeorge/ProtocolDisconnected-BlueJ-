@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameStart
+comment1.params=
+comment1.target=GameStart()
+comment1.text=\r\n\ sets\ background\ image\ of\ start\ screen\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ starts\ the\ timer\ and\ sets\ the\ game\ to\ the\ water\ level\ after\ enter\ key\ is\ pressed\r\n
+numComments=3
